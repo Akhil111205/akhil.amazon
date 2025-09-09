@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: aliceblue;
+}
+header{
+  position: relative;
+  top: 0px;
+}
+
+#navbar {
+  height: 50px;
+  background-color: black;
+}
+#logo {
+  font-size: 25px;
+  color: #f08804;
+  margin-right: 200px;
+  text-decoration: none;
+}
+#account {
+  margin-right: 200px;
+  text-decoration: none;
+}
+#cart {
+  margin-right: 200px;
+  text-decoration: none;
+}
+#contact {
+  margin-right: 220px;
+  text-decoration: none;
+}
+button {
+  color: #f08804;
+}
+.contentbox1 {
+  height: 300px;
+  width: 447px;
+  border: 2px solid black;
+  display: inline-block;
+  color: rgb(72, 72, 173);
+  position: relative;
+  top: 30px;
+  text-align: right;
+  background-image: url("offer.jpg");
+  background-size: cover;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4%;
+}
+
+.contentbox2 {
+  height: 300px;
+  width: 447px;
+  border: 2px solid black;
+  display: inline-block;
+  color: rgb(72, 72, 173);
+  position: relative;
+  top: 30px;
+  text-align: right;
+  background-image: url("phones.jpg");
+  background-size: cover;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4%;
+}
+.contentbox3 {
+  height: 300px;
+  width: 447px;
+  border: 2px solid black;
+  display: inline-block;
+  color: rgb(72, 72, 173);
+  position: relative;
+  top: 30px;
+  text-align: right;
+  background-image: url("clothes.jpg");
+  background-size: cover;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 4%;
+}
+
+#content {
+  height: 965px;
+}
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
